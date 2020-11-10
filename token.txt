@@ -1,1 +1,2 @@
-Nzc1MzkzOTI2NTc2MjA5OTIw.X6lr3g.9A7THbFZ1VqEgBXrN-sw1qU8GRE
+сюда просто вставить токен бота, который вы создали на https://discord.com/developers/applications .
+если не понятно, чекните гайд по созданию бота, его можно найти где угодно
