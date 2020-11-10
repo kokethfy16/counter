@@ -18,7 +18,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-	channel = client.get_channel()
+	channel = client.get_channel(ваш_канал)
 	with open('/Users/kirilllavrinenko/Documents/message_bot/output.json', 'r') as f:
 		output = json.load(f)
 
